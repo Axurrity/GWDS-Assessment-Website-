@@ -7,6 +7,29 @@ body {
   padding-bottom: 5rem;
   background: #383127; 
   background-clip: border-box;
+
+}
+
+/* CUSTOMIZE THE Logo
+-------------------------------------------------- */
+
+
+
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+.nav-link:hover {
+  text-decoration: underline; 
+  opacity: 1;
+  text-decoration-color: #383127;
+}
+
+.nav-link {
+  color: #fbfaf1 ;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font-size: 33px;
+  margin-right: 36px;
+  
 }
 
 
