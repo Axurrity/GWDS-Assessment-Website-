@@ -41,13 +41,27 @@ body {
 .slide-content {
   color:black;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 100%;
+  overflow: hidden;
+  margin-left: 0%;
+  
 }
 
 .slide-content2 {
   color:black;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  margin-top: 20%;
+  margin-bottom: 21%;
 }
+
+.slide-content3 {
+  color:black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-right: 75%;
+  margin-bottom: 15%;
+
+}
+
+
 
 
 /* Carousel base class */
