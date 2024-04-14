@@ -13,7 +13,10 @@ body {
 /* CUSTOMIZE THE Logo
 -------------------------------------------------- */
 
-
+.navbar-toggler {
+  border: none;
+  font-size: 1.25rem;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
@@ -28,28 +31,41 @@ body {
   color: #fbfaf1 ;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
   font-size: 33px;
-  margin-right: 36px;
+  margin-right: 39px;
   
 }
 
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
+.slide-content {
+  color:black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.slide-content2 {
+  color:black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-top: 20%;
+}
+
 
 /* Carousel base class */
-.carousel {
-  margin-bottom: 3rem;
+.carousel-inner {
+  margin-bottom: 4rem;
   
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  color: #fbfaf1;
 }
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 32rem;
+  height: 45rem;
+  position: relative;
 }
 
 
