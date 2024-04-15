@@ -140,7 +140,23 @@ body {
 /* rtl:begin:remove */
 .featurette-heading {
   letter-spacing: -.05rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #fbfaf1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* rtl:end:remove */
 
@@ -156,7 +172,8 @@ body {
   }
 
   .featurette-heading {
-    font-size: 50px;
+    font-size: 65px;
+    color-scheme: #fbfaf1
   }
 }
 
