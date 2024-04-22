@@ -15,7 +15,7 @@ body {
 
 .navbar-toggler {
   border: none;
-  font-size: 1.25rem;
+  font-size: 1.25rem;s
 }
 
 
@@ -24,7 +24,7 @@ body {
 }
 
 /* CUSTOMIZE THE NAVBAR
--------------------------------------------------- */
+--------------------------------------s------------ */
 .nav-link:hover {
   text-decoration: underline; 
   opacity: 1;
@@ -145,11 +145,25 @@ body {
 }
 
 
+.info1 {
+  color: #a7c262;
+}
+
+
+.info2 {
+  color: #a7c262;
+}
 
 
 
+.info3 {
+  color: #a7c262;
+}
 
 
+.info4 {
+  color: #a7c262;
+}
 
 
 
